@@ -33,10 +33,8 @@ footer{
 	margin: auto;
     padding: 20px;
 	width: 90vw;
-	
 	margin-left: auto;
 	margin-right: auto;
-
 	border-top: 1px dashed;
 	text-align: right;
 
@@ -56,8 +54,8 @@ footer{
 }
 
 .lookup img{
-    height: 90vh;
-
+	height: 90vh;
+	width: 80vw;
 }
 
 .lookup h1{
