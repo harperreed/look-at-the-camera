@@ -37,7 +37,6 @@ footer{
 	margin-right: auto;
 	border-top: 1px dashed;
 	text-align: right;
-
 }
 
 
@@ -59,7 +58,7 @@ footer{
 }
 
 .lookup h1{
-    font-size:  5vh;
+    font-size:  3vh;
     padding:0px;
     margin: 0px;
     text-align: center;
