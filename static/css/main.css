@@ -1,0 +1,174 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+a{
+	color: #222;
+}
+
+a:hover{
+	color: #999;
+
+}
+
+/* Content css */
+
+.content{
+	margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+	padding-bottom: 20px;
+	width: 90vw;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/* footer */
+
+footer{
+	margin: auto;
+    padding: 20px;
+	width: 90vw;
+	
+	margin-left: auto;
+	margin-right: auto;
+
+	border-top: 1px dashed;
+	text-align: right;
+
+}
+
+
+
+
+/* look ups */
+
+.lookup{
+    width: 100%;
+    height: 100vh;
+    background: #eee;
+    margin: 0px;
+    text-align: center;
+}
+
+.lookup img{
+    height: 90vh;
+
+}
+
+.lookup h1{
+    font-size:  5vh;
+    padding:0px;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* control */
+
+.controls{
+	padding-top: 10px;
+	text-align: center;
+}
+
+.controls a{
+	text-transform: uppercase;
+	color: #999;
+
+}
+
+
+/* responsive */
+
+@media only screen and (min-width: 768px) {
+	/* For tablets: */
+	.content,  footer{
+		width: 80vw;
+	}
+	.lookup h1{
+		font-size:  8vh;
+	}
+}
+
+@media only screen and (min-width: 600px) {
+	.content, footer{
+		width: 60vw;
+	}
+	.lookup h1{
+		font-size:  8vh;
+	}
+}
+
+
+/* animation */
+
+
+.bounce {
+	-webkit-animation: bounce 2s;
+	        animation: bounce 2s;
+	-webkit-animation-iteration-count: infinite;
+	        animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes bounce {
+	0%,
+	25%,
+	50%,
+	75%,
+	100% {
+		-webkit-transform: translateY(0);
+		        transform: translateY(0);
+	}
+	40% {
+		-webkit-transform: translateY(-20px);
+		        transform: translateY(-20px);
+	}
+	60% {
+		-webkit-transform: translateY(-12px);
+		        transform: translateY(-12px);
+	}
+}
+
+@keyframes bounce {
+	0%,
+	25%,
+	50%,
+	75%,
+	100% {
+		-webkit-transform: translateY(0);
+		        transform: translateY(0);
+	}
+	40% {
+		-webkit-transform: translateY(-20px);
+		        transform: translateY(-20px);
+	}
+	60% {
+		-webkit-transform: translateY(-12px);
+		        transform: translateY(-12px);
+	}
+}
+
+
+/* Chrome, Safari and Opera syntax */
+:-webkit-full-screen {
+    background-color: yellow;
+  }
+  
+  /* Firefox syntax */
+  :-moz-full-screen {
+    background-color: yellow;
+  }
+  
+  /* IE/Edge syntax */
+  :-ms-fullscreen {
+    background-color: yellow;
+  }
+  
+  /* Standard syntax */
+  :fullscreen {
+    background-color: yellow;
+  }
