@@ -1,12 +1,10 @@
-baseURL: https://vc.camp/
+baseURL: https://lookat.camera/
 
 publishDir: "public"
 languageCode: en-us
 title: Look at the camera
 canonifyURLs: true
-paginate:  5
 enableRobotsTXT: true
-
 defaultContentLanguage: "en"
 author:  "Harper Reed"
 
