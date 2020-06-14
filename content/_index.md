@@ -12,7 +12,7 @@ draft: false
 4. Talk and interact distraction free.
 5. LOOK AT THE CAMERA
 
-## What is this?
+## What is this
 
 Hi. I am Harper and I do a LOT of video chats.
 
@@ -21,7 +21,6 @@ I built this website awhile back because I found myself glancing around my scree
 I started by blocking the video chat with another window to stop myself from being distracted by the other participants or my own self view. I then started putting sticky notes on my monitor to remind myself to look at the camera.
 
 This website is merging those two ideas to remind me to look at the camera.  
-
 
 ## Hope this helps
 
