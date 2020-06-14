@@ -32,4 +32,9 @@ Would love help making it better.
 
 ## About Harper
 
-I do a lot of video calls. You can find out more at my website: [harperreed.com](http://harper.lol) or follow me on [twitter: @harper](http://twitter.com/harper). If you  have questions, please email me: [harper@modest.com](harper@modest.com)
+I do a lot of video calls. 
+
+I am hacking on some software a lot to make my video conference experience better. Check out [vc.camp](http://vc.camp) for some tips (right now collecting) and [speaker.club](http://speaker.club) for some new stuff. 
+
+
+You can find out more at my website: [harperreed.com](http://harper.lol) or follow me on [twitter: @harper](http://twitter.com/harper). If you  have questions, please email me: [harper@modest.com](harper@modest.com)
